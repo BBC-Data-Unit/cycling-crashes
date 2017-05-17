@@ -13,3 +13,7 @@ In May 2017 Tour de France winner Chris Froome escaped injury when he was "ramme
 * Line chart: Cyclist casualty rates
 * Column chart: Cyclists' share of road deaths (%) in different EU countries
 * Bar chart: Major injuries by road user type in Great Britain, 2015
+
+## Related repos
+
+* [Do cyclists get enough legal protection?](https://github.com/BBC-Data-Unit/cyclists-legal-protection)
